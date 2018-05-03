@@ -1,6 +1,6 @@
 ## Info
 
-This a Docker image to use **[DescartesLabs](https://descarteslabs.com)**. This image comes `FROM jupyter/datascience-notebook`. 
+This a Docker image [publicly available at Docker Hub](https://hub.docker.com/r/lage/descarteslabs/) to use **[DescartesLabs](https://descarteslabs.com)** platform. This image comes `FROM jupyter/datascience-notebook`. 
 
 The goal is to:
 
